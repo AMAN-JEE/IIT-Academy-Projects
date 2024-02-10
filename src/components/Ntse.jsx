@@ -1,5 +1,5 @@
 import React from "react";
-import "./Ntse.css";
+import "./Page.css";
 
 function Ntse() {
   return (
