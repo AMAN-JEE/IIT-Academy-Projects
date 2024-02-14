@@ -406,12 +406,12 @@ function Neet() {
             <li>Uploading Documents.</li>
           </ul>
         </div>
-        <h5>
+        <h4>
           <b>
             NEET 2024 Application Form: Documents Required to Apply Online for
             NEET 2024:
           </b>
-        </h5>
+        </h4>
         <p>
           Candidates must keep ready the following documents while submitting
           the NEET 2024 online application form.
@@ -427,9 +427,9 @@ function Neet() {
             <li>Candidate’s thumb impression</li>
           </ul>
         </div>
-        <h5>
+        <h4>
           <b>Specifications of the documents:</b>
-        </h5>
+        </h4>
         <div className="tabledata">
           <table>
             <thead>
@@ -935,9 +935,9 @@ function Neet() {
           <b>Step 5:</b>The admit card can be downloaded now, keep the print of
           the NEET hall ticket for counseling and the admission process.
         </p>
-        <h5>
+        <h4>
           <b>Details on the NEET 2024 Admit card</b>
-        </h5>
+        </h4>
         <div className="listdata">
           <ul>
             <li>Name of the Candidate</li>
@@ -1186,9 +1186,9 @@ function Neet() {
             </li>
           </ul>
         </div>
-        <h5>
+        <h4>
           <b>Marking scheme for NEET</b>
-        </h5>
+        </h4>
         <div className="tabledata">
           <table>
             <tbody>
@@ -1231,9 +1231,9 @@ function Neet() {
           table providing details of the NEET cut-off from 2022 and 2021 to
           understand the trends:
         </p>
-        <h5>
+        <h4>
           <b>NEET 2022 Cut-off</b>
-        </h5>
+        </h4>
         <div className="tabledata">
           <table>
             <tbody>
@@ -1265,9 +1265,9 @@ function Neet() {
             </tbody>
           </table>
         </div>
-        <h5>
+        <h4>
           <b>NEET 2021 Cut-off</b>
-        </h5>
+        </h4>
         <div className="tabledata">
           <table>
             <tbody>
@@ -1299,9 +1299,9 @@ function Neet() {
             </tbody>
           </table>
         </div>
-        <h5>
+        <h4>
           <b>Factors Deciding NEET exam Cut-of</b>
-        </h5>
+        </h4>
         <p>
           NTA announces the NEET cut-off for different categories every year.
           The cut-off is based on different aspects.
@@ -1337,9 +1337,9 @@ function Neet() {
           in NEET 2024 examination, here is a list of the best books for NEET
           2024 preparation.
         </p>
-        <h5>
+        <h4>
           <b>Best Books for NEET Biology Preparation</b>
-        </h5>
+        </h4>
         <div className="listdata">
           <ul>
             <li>NCERT (Textbook) Biology for Class 11 & 12</li>
@@ -1350,9 +1350,9 @@ function Neet() {
             <li>Best Books for NEET Chemistry Preparation</li>
           </ul>
         </div>
-        <h5>
+        <h4>
           <b>NCERT (Textbook) Chemistry</b>
-        </h5>
+        </h4>
         <div className="listdata">
           <ul>
             <li>Organic Chemistry by Morrison and Boyd</li>
@@ -1362,9 +1362,9 @@ function Neet() {
             <li>Modern ABC for Chemistry for Class 11 & 12</li>
           </ul>
         </div>
-        <h5>
+        <h4>
           <b>Best Books for NEET Physics Preparation</b>
-        </h5>
+        </h4>
         <div className="listdata">
           <ul>
             <li>Concepts of Physics by H. C. Verma</li>

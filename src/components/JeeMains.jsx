@@ -197,7 +197,7 @@ function JeeMains() {
           <b>Subjects Pursued in the Qualifying Exam:</b> It is mandatory for
           the aspirant to pass the qualifying exam with a minimum of 5 subjects.
           The set of 5 subjects includes Language, Physics, Mathematics,
-          Chemistry/Biology/Biotechnology/Technical Vocational Subject, and any
+          Chemistry, Biology, Biotechnology, Technical Vocational Subject, and any
           other subject.
         </p>
         <div className="tabledata">

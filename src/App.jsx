@@ -12,11 +12,11 @@ function App() {
     <>
       <Ntse />
       <JeeMains />
-      <FaqJeeMain/>
-      <JeeAdvance/>
+      <FaqJeeMain />
+      <JeeAdvance />
       <FaqJeeAdvance />
-      <Neet/>
-      <FaqNeet/>
+      <Neet />
+      <FaqNeet />
     </>
   );
 }

@@ -9,7 +9,7 @@ function FaqJeeAdvance() {
     <div
       class="accordion accordion-flush"
       id="accordionFlushExample"
-      style={{ width: "70vw", margin: "auto" }}
+      style={{ width: "90vw", margin: "auto" }}
     >
       <div class="accordion-item">
         <h2 class="accordion-header">

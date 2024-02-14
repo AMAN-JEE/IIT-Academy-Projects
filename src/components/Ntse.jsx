@@ -24,7 +24,7 @@ function Ntse() {
         <h1>NTSE 2022 EXAM PATTERN</h1>
         <div className="tabledata">
           <table>
-            <thead>
+            <tbody>
               <tr>
                 <th>Papers</th>
                 <th>Total number of questions</th>
@@ -32,8 +32,6 @@ function Ntse() {
                 <th>Subjects</th>
                 <th>Duration</th>
               </tr>
-            </thead>
-            <tbody>
               <tr>
                 <td>Paper 1-MAT (Mental Ability Tests)</td>
                 <td>100 Questions</td>
@@ -44,8 +42,7 @@ function Ntse() {
               <tr>
                 <td>Paper 2-SAT (Scholastic Ability Tests)</td>
                 <td>
-                  100 Questions(Science – 40, Social Science – 40, Mathematics –
-                  20)
+                  100 Questions (Science 40, Social Science 40, Mathematics 20)
                 </td>
                 <td>100</td>
                 <td>Science, Social Science, Mathematics</td>
@@ -54,6 +51,7 @@ function Ntse() {
             </tbody>
           </table>
         </div>
+
         <p>
           The students must have clarity regarding the exam pattern for better
           preparation. The NTSE is conducted in two stages i.e. Stage I and
@@ -182,7 +180,7 @@ function Ntse() {
           <ol>
             <li>
               The students should be Indian Nationals and registered with
-              theState/UT exam conducting body to appear for this exam.
+              theState UT exam conducting body to appear for this exam.
             </li>
             <li>
               The students who are in class X can also apply for the exam.
@@ -196,7 +194,7 @@ function Ntse() {
             </li>
             <li>
               The students registered under Open Distance Learning (ODL)
-              andappearing/completed class 10th examination are allowed to
+              andappearing, completed class 10th examination are allowed to
               appear for the NTSE exam.
             </li>
           </ol>
@@ -385,13 +383,12 @@ function Ntse() {
         <h4>NTSE Exam Centres for Stage 2</h4>
         <div className="tabledata">
           <table>
-            <thead>
+            <tbody>
               <tr>
                 <th>State/UT</th>
-                <th>Exam Centre(s)/Venue</th>
+                <th>Exam Centre(s) Venue</th>
               </tr>
-            </thead>
-            <tbody>
+
               <tr>
                 <td>Andaman & Nicobar Islands</td>
                 <td>KV No 2, RakshaVihar, Minnie Bay</td>
