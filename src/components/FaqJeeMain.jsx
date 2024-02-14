@@ -21,7 +21,7 @@ function FaqJeeMain() {
             aria-expanded="false"
             aria-controls="flush-collapseOne"
           >
-            What is the difference between JEE Main and JEE Advanced?
+            Q1. What is the difference between JEE Main and JEE Advanced?
           </button>
         </h2>
         <div
@@ -49,7 +49,7 @@ function FaqJeeMain() {
             aria-expanded="false"
             aria-controls="flush-collapseTwo"
           >
-            What are the new exam dates for JEE Main 2024 sessions?
+            Q2. What are the new exam dates for JEE Main 2024 sessions?
           </button>
         </h2>
         <div
@@ -74,7 +74,7 @@ function FaqJeeMain() {
             aria-expanded="false"
             aria-controls="flush-collapseThree"
           >
-            When will NTA release JEE Main 2024 Admit Card for the upcoming
+            Q3. When will NTA release JEE Main 2024 Admit Card for the upcoming
             session?
           </button>
         </h2>
@@ -97,15 +97,15 @@ function FaqJeeMain() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseFour"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseFour"
           >
-            Is NCERT important for the JEE Main?
+            Q4. Is NCERT important for the JEE Main?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseFour"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -123,15 +123,15 @@ function FaqJeeMain() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseFive"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseFive"
           >
-            What should I do to get admission to an IIT?
+            Q5. What should I do to get admission to an IIT?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseFive"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -150,15 +150,15 @@ function FaqJeeMain() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseSix"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseSix"
           >
-            How many attempts are granted for the JEE Main?
+            Q6. How many attempts are granted for the JEE Main?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseSix"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -175,15 +175,15 @@ function FaqJeeMain() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseSeven"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseSeven"
           >
-            Can I change my paper appearing mode from Hindi to English?
+            Q7. Can I change my paper appearing mode from Hindi to English?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseSeven"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -200,15 +200,15 @@ function FaqJeeMain() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseEight"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseEight"
           >
-            Can I apply for two sessions together in JEE Main 2024?
+            Q8. Can I apply for two sessions together in JEE Main 2024?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseEight"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -224,15 +224,16 @@ function FaqJeeMain() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseNine"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseNine"
           >
-            Is it mandatory to appear for all the sessions of the JEE Main exam?
+            Q9. Is it mandatory to appear for all the sessions of the JEE Main
+            exam?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseNine"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -250,15 +251,15 @@ function FaqJeeMain() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseTen"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseTen"
           >
-            Is the syllabus of JEE Main and JEE Advanced the same?
+            Q10. Is the syllabus of JEE Main and JEE Advanced the same?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseTen"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -276,16 +277,16 @@ function FaqJeeMain() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseEleven"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseEleven"
           >
-            I uploaded the wrong photo in my JEE Main application form. What
-            should I do?
+            Q11. I uploaded the wrong photo in my JEE Main application form.
+            What should I do?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseEleven"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -300,15 +301,15 @@ function FaqJeeMain() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseTwelve"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseTwelve"
           >
-            What are the new changes in the JEE Main exam pattern?
+            Q12. What are the new changes in the JEE Main exam pattern?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseTwelve"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -325,17 +326,17 @@ function FaqJeeMain() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseThirteen"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseThirteen"
           >
-            I got a “Transaction Failed” message while paying the application
-            fee online, but the money was deducted from my account. What should
-            I do?
+            Q13. I got a “Transaction Failed” message while paying the
+            application fee online, but the money was deducted from my account.
+            What should I do?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseThirteen"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >

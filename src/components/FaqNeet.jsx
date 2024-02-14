@@ -90,15 +90,15 @@ function FaqNeet() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseFour"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseFour"
           >
             Q4. Is qualifying class 12th enough to appear for NEET 2024?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseFour"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -116,15 +116,15 @@ function FaqNeet() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapse5"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapse5"
           >
             Q5. How many marks are required to pursue MBBS in NEET?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapse5"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -141,15 +141,15 @@ function FaqNeet() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapse6"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapse6"
           >
             Q6. When do the NEET 2024 Registrations start?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapse6"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -166,15 +166,15 @@ function FaqNeet() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapse7"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapse7"
           >
             Q7. Will NEET be held twice in 2024?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapse7"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -191,15 +191,15 @@ function FaqNeet() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapse8"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapse8"
           >
             Q8. When will the NEET 2024 form date be announced?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapse8"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -216,15 +216,15 @@ function FaqNeet() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapse9"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapse9"
           >
             Q9. Will NEET be held in 2024?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapse9"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -244,15 +244,15 @@ function FaqNeet() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapse10"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapse10"
           >
             Q10. Is there any change in the NEET 2024 syllabus?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapse10"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >

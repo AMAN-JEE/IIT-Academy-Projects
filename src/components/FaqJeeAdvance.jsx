@@ -92,9 +92,9 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseFour"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseFour"
           >
             Q4. Are candidates who have cleared their qualifying exams in 2022
             eligible for JEE Advanced 2024 if they did not appear for it in
@@ -102,7 +102,7 @@ function FaqJeeAdvance() {
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseFour"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -120,16 +120,16 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseFive"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseFive"
           >
             Q5. Can aspirants who missed JEE Advanced 2023 appear in JEE
             Advanced 2024?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseFive"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -145,15 +145,15 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseSix"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseSix"
           >
             Q6. How many seats will be available in IITs in 2024?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseSix"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -170,16 +170,16 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseSeven"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseSeven"
           >
             Q7. How much do I have to score in the JEE Main to qualify for the
             JEE Advanced 2024?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseSeven"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -195,16 +195,16 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseEight"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseEight"
           >
             Q8. Are both Paper-I and Paper-II mandatory in the JEE Advanced
             2024?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseEight"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -221,15 +221,15 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseNine"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseNine"
           >
             Q9. Is there any change in the JEE Advanced eligibility?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseNine"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -245,16 +245,16 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseTen"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseTen"
           >
             Q10. How is the top 20 percentile calculated for the qualifying
             exam?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseTen"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -272,15 +272,15 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseEleven"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseEleven"
           >
             Q11. Which login ID must be used to apply for the JEE Advanced 2024?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseEleven"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -296,15 +296,15 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseTwelve"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseTwelve"
           >
             Q12. What kind of questions can I expect in the JEE Advanced?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseTwelve"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -322,16 +322,16 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseThirteen"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseThirteen"
           >
             Q13. Is there any way to confirm the registration status for the
             exam?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseThirteen"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -350,16 +350,16 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseFourteen"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseFourteen"
           >
             Q14. Apart from IIT colleges, which are the other premier institutes
             offering admissions based on the JEE Advanced score?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseFourteen"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -377,15 +377,15 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseFifteen"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseFifteen"
           >
             Q15. How to develop better skills for solving JEE questions?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseFifteen"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -404,15 +404,15 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseSixteen"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseSixteen"
           >
             Q16. JEE Advanced 2024 will be held in how many languages?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseSixteen"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
@@ -428,15 +428,15 @@ function FaqJeeAdvance() {
             class="accordion-button collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseThree"
+            data-bs-target="#flush-collapseSeventeen"
             aria-expanded="false"
-            aria-controls="flush-collapseThree"
+            aria-controls="flush-collapseSeventeen"
           >
             Q17. Do I need to apply for the JEE Advanced separately?
           </button>
         </h2>
         <div
-          id="flush-collapseThree"
+          id="flush-collapseSeventeen"
           class="accordion-collapse collapse"
           data-bs-parent="#accordionFlushExample"
         >
